@@ -1,0 +1,13 @@
+Petrovics 20 25
+Kocsis 13 40
+Feher 20 23
+Kisbuci 2 10
+Struchammerl 0 1
+Csasztuska 34 44
+Galagonya 0 12
+Fakezu 0 20
+Burgonya 10 11
+Palpusztay 23 45
+Tarfeju 2 2
+Lukasmarku 0 0
+Zsakos 10 10
